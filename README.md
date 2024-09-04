@@ -12,4 +12,7 @@ https://github.com/prakash-s-2210/mern-social-media-app/assets/94909544/c2bbe4be
 
 ![MERN social media img](https://github.com/prakash-s-2210/mern-social-media-app/assets/94909544/2ce80f75-72a1-4921-b605-0da6a8bce923)
 
+netlify
+https://prodigyfs01.netlify.app/
+
 
